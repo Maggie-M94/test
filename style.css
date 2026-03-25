@@ -89,6 +89,7 @@ span {
 .btn-primary:focus-visible,
 .btn-primary:hover {
     background-color: #DC5A12 !important;
+    color: #ffffff;
     box-shadow: none !important;
     outline: none;
     border: 0px none;
@@ -159,7 +160,7 @@ input::-webkit-calendar-picker-indicator {
 }
 
 .input-date {
-    color: #213E2D;
+    color: #213E2D !important;
     font-size: 1rem;
     line-height: 2rem;
     font-weight: none;
