@@ -36,6 +36,7 @@ h2 {
 h3 {
     font-family: "JM_INT_Meister-Bold";
     color: #FFFFFF;
+    text-transform: uppercase;
     font-weight: 100;
     font-size: calc(1.3rem + 0.6vw);
     text-align: center;
