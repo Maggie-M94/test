@@ -1,24 +1,24 @@
 @font-face {
     font-family: "ApercuPro-Bold";
-    src: url('assets/fonts/ApercuPro-Bold.ttf');
+    src: url('assets/Fonts/ApercuPro-Bold.ttf');
     font-style: normal;
 }
 
 @font-face {
     font-family: "Apercu-Regular";
-    src: url('assets/fonts/Apercu-Regular.otf');
+    src: url('assets/Fonts/Apercu-Regular.otf');
     font-style: normal;
 }
 
 @font-face {
     font-family: "ArtoisSebastian-Sans";
-    src: url('assets/fonts/ArtoisSebastian-Sans.otf');
+    src: url('assets/Fonts/ArtoisSebastian-Sans.otf');
     font-style: normal;
 }
 
 @font-face {
     font-family: "Apercu Medium";
-    src: url('assets/fonts/Apercu Medium.otf');
+    src: url('assets/Fonts/Apercu Medium.otf');
     font-style: normal;
 }
 
