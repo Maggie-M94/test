@@ -449,7 +449,6 @@ input[type="tel"].input-date::-webkit-input-placeholder {
 a {
     color: #ffffff;
     text-decoration: underline;
-    font-weight: bolder;
 }
 
 a:hover {
